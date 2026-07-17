@@ -16,4 +16,4 @@ _Active personal projects. Each needs a next action or it's not active._
 
 ## Someday / maybe
 
--
+- **Golf game tracker** — app to track golf games at different golf courses, offered Curbivo-style: each course gets its own branded version, same as the Card Room Rush / House of Kings model. Idea spotted at the golf tournament, 2026-07-17. _Parked until Card Room Rush leads (Victor, Reece) are landed or dead — same playbook, one venture at a time._
