@@ -14,4 +14,4 @@ _Clients, revenue trend, what's working, what's draining._
 
 ## Pipeline / opportunities
 
--
+- [ ] **House of Kings — contact Victor** about the Card Room Rush application (House of Kings version already built). Warm intro: Julio, the previous owner who sold it to Victor, said to hit him up. _(Lead from golf tournament, 2026-07-17.)_
